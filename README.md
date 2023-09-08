@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 B.Sc in Electromechanical Engineering, Alexandria University 
-- 🌱 I’m currently learning embedded systems
+### - 🔭 B.Sc in Electromechanical Engineering, Alexandria University 
+### - 🌱 I’m currently learning embedded systems
 
 
